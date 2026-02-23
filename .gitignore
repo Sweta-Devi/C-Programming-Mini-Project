@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Object files (Intermediate compilation files)
+*.o
+*.obj
+*.ko
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (Linux/Mac)
+*.so
+*.so.*
+*.dylib
+
+# Executables (The finished programs)
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug symbols (Visual Studio / GDB)
+*.pdb
+*.ilk
+*.exp
+
+# IDE Specific (Visual Studio, Code::Blocks, CLion)
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.layout
+*.depend

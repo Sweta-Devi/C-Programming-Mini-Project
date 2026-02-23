@@ -1,0 +1,22 @@
+Rs.2000 has been deposited to your account.
+Date / Time of the transaction : Thu Apr 24 20:59:55 2025
+
+Rs.2000 has been withdraw from your account.
+Date / Time of the transaction : Thu Apr 24 21:01:22 2025
+
+Rs.2000 has been deposited to your account.
+Date / Time of the transaction : Thu Apr 24 21:16:56 2025
+
+Rs.2000 has been deposited to your account.
+Date / Time of the transaction : Thu Apr 24 21:20:06 2025
+
+Rs.2000 has been withdraw from your account.
+Date / Time of the transaction : Thu Apr 24 21:22:47 2025
+
+Rs.2000 has been transfered from your account to 12367 account.
+Rs.2000 has been deposited to your account.
+Date / Time of the transaction : Thu May 01 13:27:50 2025
+
+Rs.2000 has been withdraw from your account.
+Date / Time of the transaction : Thu May 01 13:28:09 2025
+
